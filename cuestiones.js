@@ -1,0 +1,1 @@
+edad=Number(prompt("Dime tu edad"));
